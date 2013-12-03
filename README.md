@@ -9,8 +9,8 @@ Port from the original code (in BooScript) to C#.
 
 Features added for 0.4:
 
-	1.	New assertions (on UUnitAssert).<br>
-	2.	UUnitTestRunner run all tests (Ctrl + Shift + T on Unity).<br>
+	1.	New assertions (on UUnitAssert).
+	2.	UUnitTestRunner run all tests (Ctrl + Shift + T on Unity).
 
 
 The official project page can be found at:
@@ -36,7 +36,6 @@ using UnityEngine;
 
 public class YourClassTest : UUnitTestCase
 {
-
   protected override void SetUp() {
   }
 
@@ -46,6 +45,6 @@ public class YourClassTest : UUnitTestCase
 
   protected override void TearDown() {
   }
-
+  
 }
 ```
