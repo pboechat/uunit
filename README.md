@@ -1,7 +1,7 @@
 uunit
 =====
 
-A simple *xUnit* style framework for unit testing inside Unity editor
+A simple *xUnit* style framework for running unit tests inside Unity.
 
 ---
 
